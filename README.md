@@ -1,0 +1,2 @@
+# nothing
+Website for fun
